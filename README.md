@@ -1,4 +1,4 @@
-# postal-mime
+# basic-postal-mime
 
 Email parser for browser and serverless environments.
 

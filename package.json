@@ -1,6 +1,6 @@
 {
-    "name": "postal-mime",
-    "version": "2.2.7",
+    "name": "basic-postal-mime",
+    "version": "2.2.7a",
     "description": "Email parser for browser environments",
     "main": "./src/postal-mime.js",
     "exports": {
@@ -19,7 +19,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/postalsys/postal-mime.git"
+        "url": "git+https://github.com/olehh-MS/postal-mime.git"
     },
     "bugs": {
         "url": "https://github.com/postalsys/postal-mime/issues"
