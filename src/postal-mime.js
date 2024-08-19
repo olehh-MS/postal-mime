@@ -475,11 +475,11 @@ export default class PostalMime {
             message.date = date;
         }
 
-        if (this.textContent?.html) {
+        if (this.textContent && this.textContent.html) {
             message.html = this.textContent.html;
         }
 
-        if (this.textContent?.plain) {
+        if (this.textContent && this.textContent.plain) {
             message.text = this.textContent.plain;
         }
 
